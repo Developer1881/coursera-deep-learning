@@ -9,6 +9,8 @@ A series of online courses offered by [deeplearning.ai](https://www.deeplearning
 -------------------
 the reason I would like to create this repository is purely for academic use (in case for my future use). I am really glad if you can use it as a reference and happy to discuss with you about issues related with the course even further deep learning techniques. 
 
+I, Developer1881 totally agree with the statement above, if you would like just to copy and paste answers, my personal recommendation, spend some more time on understanding a subject. 
+
 **Please only use it as a reference**. The quiz and assignments are relatively easy to answer, hope you can have fun with the courses.  
 
 
